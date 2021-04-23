@@ -7,3 +7,4 @@
 6- ouvrir apache et MySql ( xampp )
 7- ouvrir dans le navigateur localhost:8000
 8- compte admin username admin@quiz.com password 123456789
+# QCM-master
